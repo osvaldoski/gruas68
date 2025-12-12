@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[89225,["/gruas68/_next/static/chunks/ce03da0b751f1205.js","/gruas68/_next/static/chunks/d5a367720c0671ff.js"],"ViewportBoundary"]
-4:I[89225,["/gruas68/_next/static/chunks/ce03da0b751f1205.js","/gruas68/_next/static/chunks/d5a367720c0671ff.js"],"MetadataBoundary"]
+2:I[89225,["/_next/static/chunks/ce03da0b751f1205.js","/_next/static/chunks/d5a367720c0671ff.js"],"ViewportBoundary"]
+4:I[89225,["/_next/static/chunks/ce03da0b751f1205.js","/_next/static/chunks/d5a367720c0671ff.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"inURo3QKpoWkVUNP7G9I1","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"QX1LY3sIdFAVt_0d1qMoS","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#1e56a0"}]]
 6:[["$","title","0",{"children":"Servicio Grúas Ruta 68 | Asistencia Vial 24/7"}],["$","meta","1",{"name":"description","content":"Servicio Grúas Ruta 68 - Asistencia vial y rescate vehicular las 24 horas. Arrastre de autos, auxilio mecánico y servicio en carretera. Llámanos ahora."}],["$","meta","2",{"name":"generator","content":"v0.app"}],["$","meta","3",{"name":"keywords","content":"grúas ruta 68,asistencia vial,rescate vehicular,remolque,carretera,grúas"}]]
