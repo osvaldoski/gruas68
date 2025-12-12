@@ -5,27 +5,27 @@ import { X } from "lucide-react"
 
 const photos = [
   {
-    src: "/tow-truck-lifting-car-professional-service-daytime.jpg",
+    src: "/1.jpeg",
     alt: "Grúa levantando vehículo",
   },
   {
-    src: "/flatbed-tow-truck-with-car-loaded-highway.jpg",
+    src: "/2.jpeg",
     alt: "Grúa plataforma con auto cargado",
   },
   {
-    src: "/tow-truck-night-rescue-roadside-assistance.jpg",
+    src: "/3.jpeg",
     alt: "Rescate nocturno en carretera",
   },
   {
-    src: "/mechanic-changing-tire-roadside-service.jpg",
+    src: "/4.jpeg",
     alt: "Cambio de llanta en carretera",
   },
   {
-    src: "/tow-truck-fleet-professional-vehicles-yellow.jpg",
+    src: "/5.jpeg",
     alt: "Flota de grúas profesionales",
   },
   {
-    src: "/car-accident-tow-truck-rescue-scene.jpg",
+    src: "/6.jpeg",
     alt: "Rescate de accidente vehicular",
   },
 ]

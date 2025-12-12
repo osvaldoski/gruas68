@@ -1,3 +1,4 @@
+import Image from "next/image"
 import { Phone, Clock, MapPin } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
@@ -64,11 +65,14 @@ export function Hero() {
           </div>
 
           <div className="relative flex flex-col items-center">
-            <div className="aspect-[4/3] w-full rounded-2xl overflow-hidden shadow-2xl">
-              <img
-                src="/tow-truck-rescuing-car-on-highway-professional-ser.jpg"
+            <div className="aspect-4/3 w-full rounded-2xl overflow-hidden shadow-2xl relative">
+              <Image
+                src="/4.jpeg"
                 alt="Grúa rescatando vehículo en carretera"
-                className="w-full h-full object-cover"
+                fill
+                sizes="(min-width: 1024px) 600px, 100vw"
+                className="object-cover"
+                priority
               />
             </div>
             <div className="mt-4 md:mt-0 md:absolute md:-bottom-6 md:left-1/2 md:-translate-x-1/2 bg-card p-4 rounded-xl shadow-lg border border-primary/20 w-full max-w-xs md:w-auto">
